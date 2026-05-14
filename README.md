@@ -1,43 +1,64 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- DATA ANALYST BANNER -->
+<img align="center" alt="Data Analyst Banner" 
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ3d3Y5aWJxM3h5aW9rbGQ0NmY2NnY2N3l4ZmY4N2E0YzV5eXk5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Ridhan Km</strong>
 </h1>
 
-<h3>Data Analyst | Python & BI Enthusiast</h3>
+<h3>📊 Data Analyst | Python • SQL • BI • Web Scraping</h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <!-- DATA ANALYST GIF -->
+  <img align="right" width="350"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
   <p>
-    I'm a passionate Data Analyst who enjoys transforming raw data into meaningful insights and interactive visualizations.
-    I specialize in data cleaning, analysis, web scraping, ETL workflows, and building dashboards that help drive smart decisions.
+    I'm a passionate <strong>Data Analyst</strong> who loves transforming raw data into
+    meaningful insights, dashboards, and visual stories.
   </p>
+
+  <p>
+    I specialize in:
+  </p>
+
+  <ul>
+    <li>📈 Exploratory Data Analysis (EDA)</li>
+    <li>🧹 Data Cleaning & Transformation</li>
+    <li>📊 Dashboard Development</li>
+    <li>🌐 Web Scraping & Automation</li>
+    <li>⚙️ ETL Pipelines</li>
+    <li>📉 Business Insights & Reporting</li>
+  </ul>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    
     <a href="mailto:ridhan@example.com">
       <img src="https://img.shields.io/badge/📧_Contact_Me-1e1e2e?style=for-the-badge" />
     </a>
+
     <img src="https://img.shields.io/badge/📊_Open_to_Data_Analytics_Roles-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Data_Driven_Mindset-1e1e2e?style=for-the-badge" />
+
+    <img src="https://img.shields.io/badge/🚀_Turning_Data_Into_Insights-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Socials</h3>
+<h3>🌐 Connect With Me</h3>
 
 <p align="left">
 
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
 </p>
@@ -50,11 +71,12 @@
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 <p align="center">
 <table>
 <tr>
+
 <td width="50%" align="center">
 
 <h3>💻 Programming & Analysis</h3>
@@ -76,22 +98,24 @@ Python • Pandas • NumPy • SciPy
 <br/><br/>
 
 <p>
-Tableau • Matplotlib • Seaborn • Excel
+Tableau • Power BI • Matplotlib • Seaborn • Excel
 </p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" align="center">
 
 <h3>🗄️ Databases & ETL</h3>
 
-<img src="https://skillicons.dev/icons?i=postgresql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 <br/><br/>
 
 <p>
-PostgreSQL • ETL Pipelines • Data Cleaning
+PostgreSQL • MySQL • ETL Pipelines • Data Cleaning
 </p>
 
 </td>
@@ -104,28 +128,38 @@ PostgreSQL • ETL Pipelines • Data Cleaning
 <br/><br/>
 
 <p>
-BeautifulSoup • Selenium • Web Scraping • Git
+BeautifulSoup • Selenium • Git • GitHub
 </p>
 
 </td>
+
 </tr>
 </table>
 </p>
 
 ---
 
-## 📈 What I Do
+# 📈 What I Do
 
 ✔️ Data Cleaning & Transformation  
 ✔️ Exploratory Data Analysis (EDA)  
 ✔️ Dashboard & Report Creation  
 ✔️ ETL Workflow Development  
 ✔️ Web Scraping & Automation  
-✔️ Data Visualization & Insights  
+✔️ Data Visualization & Storytelling  
 
 ---
 
-## ❤️ Support Me
+# 📊 Current Focus
+
+📌 Building Real-World Data Analytics Projects  
+📌 Learning Advanced SQL & Power BI  
+📌 Creating Interactive Dashboards  
+📌 Automating Data Collection Workflows  
+
+---
+
+# ❤️ Support Me
 
 <p align="center">
   <a href="https://github.com/">
