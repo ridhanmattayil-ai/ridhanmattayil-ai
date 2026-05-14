@@ -36,13 +36,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ3d3Y5aWJxM3h5aW9rbGQ0Nm
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     
-    <a href="mailto:ridhan@example.com">
-      <img src="https://img.shields.io/badge/📧_Contact_Me-1e1e2e?style=for-the-badge" />
-    </a>
-
-    <img src="https://img.shields.io/badge/📊_Open_to_Data_Analytics_Roles-1e1e2e?style=for-the-badge" />
-
-    <img src="https://img.shields.io/badge/🚀_Turning_Data_Into_Insights-1e1e2e?style=for-the-badge" />
+   
   </p>
 
 <h3>🌐 Connect With Me</h3>
