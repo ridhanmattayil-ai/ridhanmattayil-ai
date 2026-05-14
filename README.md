@@ -51,10 +51,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ3d3Y5aWJxM3h5aW9rbGQ0Nm
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
+  
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=RidhanKm&style=flat-square&color=blue" alt="Profile Visit"/>
