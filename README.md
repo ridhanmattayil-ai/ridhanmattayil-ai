@@ -147,16 +147,9 @@ BeautifulSoup • Selenium • Git • GitHub
 # 📊 Current Focus
 
 📌 Building Real-World Data Analytics Projects  
-📌 Learning Advanced SQL & Power BI  
-📌 Creating Interactive Dashboards  
+📌 Learning ML & WebScraping
+📌 Creating EDA analysis  
 📌 Automating Data Collection Workflows  
 
 ---
 
-# ❤️ Support Me
-
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
